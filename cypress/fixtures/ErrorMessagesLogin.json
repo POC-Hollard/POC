@@ -1,0 +1,11 @@
+{
+    "emptyEmailErrorMessage":"Please capture e-mail",
+    "emptyPasswordErrorMessage":"Please capture password",
+    "emptyForgotPasswordEmailErrorMessage":"Please capture e-mail",
+    "emptyNameOnContactUsErrorMessage":"Please capture name",
+    "emptySurnameOnContactUsErrorMessage":"Please capture surname",
+    "emptyEmailOnContactUsErrorMessage":"Please capture e-mail address",
+    "emptyIssueOnContactUsErrorMessage":"Please select issue",
+    "emptyDescribeOnContactUsErrorMessage":"Please describe the issue"
+
+}

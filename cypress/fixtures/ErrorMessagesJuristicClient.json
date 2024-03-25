@@ -1,0 +1,14 @@
+{
+    "emptyJuristicPersonTypeErrorMessage":"Please select juristic person type",
+    "emptyRegNumberErrorMessage":"Please capture registration number",
+    "emptyNameErrorMessage":"Please capture name",
+    "emptyVatNumberErrorMessage":"Please capture VAT number",
+    "emptyPhoneNumberErrorMessage":"Please capture at least one phone number",
+    "emptyEmailAddressErrorMessage":"Please capture email address",
+    "emptyPhysicalAddressErrorMessage":"Please provide physical address",
+    "incorrectVatNumberErrorMessage":"Incorrect number of digits captured for VAT number. Capture 10 digits",
+    "incorrectCellNumberErrorMessage":"Incorrect number of digits captured for cell phone number. Capture 9 digits",
+    "incorrectEmailAddressErrorMessage":"Incorrect email format. Please refer to tooltip for details to capture email correctly"
+
+
+}

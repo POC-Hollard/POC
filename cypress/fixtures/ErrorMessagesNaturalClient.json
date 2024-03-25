@@ -1,0 +1,17 @@
+{
+    "titleErrorMessage":"Please select title",
+    "nameErrorMessage":"Please capture name",
+    "surnameErrorMessage":"Please capture surname",
+    "materialStatusErrorMessage":"Please select marital status",
+    "genderErrorMessage":"Please select gender",
+    "idOrPassportErrorMessage":"Please capture ID/passport number",
+    "methodOfCommunicationErrorMessage":"Please select preferred method of communication",
+    "mobileNumberErrorMessage":"Please capture mobile number",
+    "emailAddressErrorMessage":"Please capture email address",
+    "addAddressErrorMessage":"Please provide physical address",
+    "addEmploymentDeatilsErrorMessage":"Please provide employment details",
+    "passportNumberErrorIfEnteredBelowsix":"Incorrect number of digits captured, please re-capture",
+    "phonenumberLessThanNineErrorMessage":"Incorrect number of digits captured for home telephone number. Capture 9 digits",
+    "incorrectEmailErrorMessage":"Incorrect email format. Please refer to tooltip for details to capture email correctly"
+
+}
